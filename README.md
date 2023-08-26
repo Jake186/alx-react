@@ -1,2 +1,1 @@
-# alx-react
-React foundamentals
+# React
